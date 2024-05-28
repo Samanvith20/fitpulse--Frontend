@@ -1,0 +1,38 @@
+{
+	"usage": true,
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1705751745338
+	},
+	"analytics-uuid": "ebba27a0-f477-4daa-9b6f-05cae8e34555",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "112223387521299336357",
+		"email": "samanvith2005@gmail.com",
+		"email_verified": true,
+		"at_hash": "Mbi-k0paaU9ND_n9qepMrg",
+		"iat": 1705751816,
+		"exp": 1705755416
+	},
+	"tokens": {
+		"expires_at": 1705762824852,
+		"refresh_token": "1//0gqzb_D1aXr5CCgYIARAAGBASNwF-L9Ir2KLpuKPUzMoM5IOH3MS8ebGNRz7JXOzZWBMOjFsnL1DwNRDELsMJI-LTR_CwYVi5P-4",
+		"scopes": [],
+		"access_token": "ya29.a0AfB_byDJREqLvLrFGoeKvA1oT--Tl7bht-5bSdofeC3g3GjSxE_13c6eo77bxtyUtxNebup3CtsHRJhZzlf5paL4cgptEv0iLMC2TEE2_StfFxeTzfB5VlXX4uSsXpAe_VzXUSWciQlW39_0kzRbFF2WZk-sB9BcBpcXfCaQ0QaCgYKAYkSARISFQHGX2Mi4IKITRP4bDYl1ibElG3Qbg0177",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ4YTYzYmM0NzY3Zjg1NTBhNTMyZGM2MzBjZjdlYjQ5ZmYzOTdlN2MiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyMjIzMzg3NTIxMjk5MzM2MzU3IiwiZW1haWwiOiJzYW1hbnZpdGgyMDA1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiTlJtZWVReDRQN0hEUjVyTWxOMXNldyIsImlhdCI6MTcwNTc1OTIyNCwiZXhwIjoxNzA1NzYyODI0fQ.VkNJWg2HwalqhuFBtAEJYj5g4spUyw9bNnQPkgCDc7la2Unw_7PWTg0fxmrRjUpCoxUznbDlBr_W0VdPYr5cC4350HKOdzXrOgEwDk-ssoJFmepNHDfHs_A1IHwNCWcvXQHNPMlBfY-pHf6zsvcleJkeZwENBIT4oXzwjRCyPs77_M3RTeXrMFT_vodlgUzukGaydd7jlBGJkhMung7az7KNcf43kSGTSWtexZ_3u0PxzVJTcKka6xolcjjFDyos19uoXeUxN8HBwD76zJbo_3VeKk6sfNI1HVX8FIgHoi-Z_8MJqMsSXvzpHQq_rdLhp0s7ri6AJQ9bvutBGtVRqQ"
+	},
+	"activeProjects": {
+		"C:\\Git Repos\\Netflix-GPT\\Netflix-GPT\\netflix": "netflix-gpt-cdd10"
+	}
+}
